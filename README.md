@@ -1,4 +1,4 @@
-#Amazon-Product-Review-Classification
+# Amazon-Product-Review-Classification
 
 The goal of the course project is to implement machine learning models and concepts covered in this course for a real-world dataset. The project will utilize the Amazon product review dataset and focus on binary classification, multi-class classification, and clustering approaches to analyze and categorize product reviews. All code must be implemented in Python and all models must use the Scikit Learn toolkit - https://scikit- learn.org/stable/index.html. You are not allowed to use other toolkits, such as NLTK or transformer network architectures, for your project results.
 
