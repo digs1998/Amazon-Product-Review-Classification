@@ -10,17 +10,28 @@ Here are examples of some useful Scikit modules:
 ## Information about the Dataset
 
 ● overall: This is the product’s rating on a scale of (1-5)
+
 ● verified: A boolean variable denoting if the review has been verified by Amazon
+
 ● reviewTime: time of review
+
 ● reviewerID: The unique ID of the Amazon reviewer (some have left multiple reviews)
+
 ● asin: Product ID. One product will have many different reviews
+
 ● reviewerName: Encoding of the Amazon reviewer’s username
+
 ● reviewText: The Amazon review
+
 ● unixReviewTime: unix time of review
+
 ● vote: How many people voted this review as being helpful
+
 ● image: If there is an image, link to the image
+
 ● style: If there is style information (e.g., size of shirt, color of phone), it is embedded in a
 dictionary here. Only available for some samples
+
 ● Category: The Amazon product category of the product.
 
 ## Libraries Used
